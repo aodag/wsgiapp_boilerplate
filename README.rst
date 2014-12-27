@@ -1,3 +1,5 @@
+.. -*- coding:utf-8 -*-
+
 WSGI Application Boilerplate
 =======================================
 
@@ -8,7 +10,7 @@ Introduction
 ------------
 
 thinking this doesn't have be a top-level section, but rather just a paragraph or two at the top of the index page.
-should include the following links:  User list | Dev list | Issues | Github | PyPI | irc
+should include the following links:  User list | Dev list | `Issues`_ | `Github`_ | PyPI | irc
 (e.g. see http://www.pip-installer.org/en/latest/)
 
 
@@ -55,3 +57,7 @@ Release History
 
 - the changelog
 - don't use sections to mark releases, because it makes the TOC too noisy
+
+
+.. _Github: https://github.com/aodag/wsgiapp_boilerplate
+.. _Issues: https://github.com/aodag/wsgiapp_boilerplate/issues
