@@ -51,6 +51,17 @@ Development
 - how to get involved
 - irc channels...
 
+How to test
++++++++++++++++++++++++++++++++
+
+Installing test tools from local wheelhouse::
+
+   $ pip install -e ".[testing]" -f wheelhouse
+
+Run tests::
+
+   $ python setup.py test
+
 
 Release History
 ---------------
